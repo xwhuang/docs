@@ -21,7 +21,9 @@
 
  o add new fonts
    mv *.otf to /usr/share/fonts/truetype/adobe
+   
    fc-cache -r -v 
+   
    fc-list 
 
  o usepackage/xecjk

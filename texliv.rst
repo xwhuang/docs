@@ -36,3 +36,6 @@
    o uncompress 
      uncompress the .zip file to /usr/share/texmf/
    o texhash
+   
+2) About fonts
+   o http://blog.csdn.net/lostaway/article/details/6177486
